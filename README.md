@@ -13,7 +13,7 @@ a different perspective: always looking for creative and fun solutions for solvi
 
 <div> 
   <a href = "mailto:nathi.mariz.inacio@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://inkedin.com/in/nathalia-mariz-inacio/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href="https://linkedin.com/in/nathalia-mariz-inacio/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
 
 ## 💻 **Technologies and Tools**
@@ -34,7 +34,7 @@ a different perspective: always looking for creative and fun solutions for solvi
 
  <div align="left">
   <a href="https://github.com/nathiinacio">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=nathiinacio&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nathiinacio&layout=compact&langs_count=7&theme=tokyonight"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=nathiinacio&show_icons=true&include_all_commits=true&count_private=true&theme=dark"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nathiinacio&layout=compact&langs_count=7&theme=dark"/>
 </div>
 
