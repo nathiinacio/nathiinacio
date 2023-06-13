@@ -2,11 +2,15 @@
 
 ## ✨ **About me** 
 
-Passionate about art, I found in programming a way to express myself interactively through technology. In this way, I could follow my greatest inspiration: the possibility of simplifying people's lives.
-My motivation gained strength when I became an iOS developer in 2018. Since then, I've been working more and more on my artistic side with the goal of seeing the challenges of everyday life with
-a different perspective: always looking for creative and fun solutions for solving them.
+Passionate about programming, as a developer I found a way to express myself interactively through technology. In this way, I could follow my greatest inspiration: the possibility of simplifying people's lives. 
 
-- 🚀 I’m currently working at Hurb.
+Although my love for programming, I realized that I wanted to expand my impact beyond the code. I wanted to have more vision and influence of the entire product development cycle, from conception to launch. That's when I decided that it was time to make a change and become a product manager.
+
+With this new challenge, my experience as a developer proved advantageous. I effectively collaborated with technical teams, understood complexities, and translated user requirements.
+
+Since then, I've been working more and more on my abilities with the goal of seeing the challenges of everyday life with a different perspective: always looking for creative and fun solutions for solving them.
+
+- 🚀 I’m currently open to work.
 - 🎓 I’m graduated in Computer Science by PUC-Rio.
 - 😄 Pronouns: She/Her.
 - 📱 How to reach me: 
