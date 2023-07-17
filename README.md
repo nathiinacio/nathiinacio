@@ -10,7 +10,7 @@ With this new challenge, my experience as a developer proved advantageous. I eff
 
 Since then, I've been working more and more on my abilities with the goal of seeing the challenges of everyday life with a different perspective: always looking for creative and fun solutions for solving them.
 
-- 🚀 I’m currently open to work.
+- 🚀 I’m currently open at Hurb.
 - 🎓 I’m graduated in Computer Science by PUC-Rio.
 - 😄 Pronouns: She/Her.
 - 📱 How to reach me: 
